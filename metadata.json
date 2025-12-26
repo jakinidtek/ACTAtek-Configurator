@@ -1,0 +1,5 @@
+{
+  "name": "ACTAtek Model Configurator",
+  "description": "A step-by-step wizard to help customers choose their ACTAtek device model and generate the correct part number.",
+  "requestFramePermissions": []
+}
