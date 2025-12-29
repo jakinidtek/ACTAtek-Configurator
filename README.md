@@ -1,7 +1,7 @@
 # ACTAtek Configurator
 
 A React application for configuring ACTAtek models.
-
+ 
 ## Getting Started
 
 ### Prerequisites
